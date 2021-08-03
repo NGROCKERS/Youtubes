@@ -1,16 +1,16 @@
 {
     "name": "SC Song Bot",
     "description": "A bot that can download songs.",
-    "logo": "https://telegra.ph/file/290e565c53f0aac27f518.jpg",
+    "logo": "https://telegra.ph/file/eb06d51f25b62c9c32be3.png",
     "keywords": [
-        "JESongBot",
+        "malluSongBot",
         "Song Downloader",
         "Telegram Bot",
-        "JE Bots"
+        "NG Bots"
     ],
-    "website": "https://infinityje.com",
-    "repository": "https://github.com/scprojectslk/JESongBot",
-    "success_url": "https://t.me/SCProjectsLK",
+    "website": "https://ngrockers.blogspot.com",
+    "repository": "https://github.com/NGROCKERS",
+    "success_url": "https://t.me/ADARSHMEDIAS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
